@@ -1,2 +1,4 @@
 # xubuntu-hexchat-theme
-A Hexchat theme using the default Xubuntu colors
+A HexChat theme using the default Xubuntu colors
+
+Extract to ~/.config/hexchat and overwrite the existing files.
